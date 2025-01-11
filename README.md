@@ -1,1 +1,1 @@
-Code for continuous spatial models with Stochastic Partial Differential Equations (SPDE)
+Code for Bayesian Continuous Spatial Models using Stochastic Partial Differential Equations (SPDE)
